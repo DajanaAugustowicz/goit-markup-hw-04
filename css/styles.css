@@ -129,6 +129,10 @@ img {
   cursor: pointer;
 }
 
+.current {
+  color: #2196f3;
+}
+
 .contact-mail {
   margin-right: 30px;
   margin-left: 345px;
